@@ -1,7 +1,6 @@
 # CombinationsLSP
-=========================
 Large Scale Programming
-=========================
+
 EXAMPLE :
 
 total_combinations = calculate_combinations(input=[1, 2, 3, 4, 5, 6], target_sum=6)
